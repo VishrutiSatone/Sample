@@ -1,0 +1,6 @@
+#!/bin/bash -x
+
+read -p "Enter the Single Digit No= " x
+if [ $x -eq 1 ];
+
+
